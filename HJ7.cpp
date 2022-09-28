@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//四舍五入取近似值
 int main() {
     double n;
     cin >> n;
