@@ -19,4 +19,5 @@ int main() {
         s[n - 1 - i] = tmp;
     }
     cout << s << endl;
+    return 0;
 }
